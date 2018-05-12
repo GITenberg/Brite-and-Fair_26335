@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1700
 description: The antics and practical pranks of a twelve-year-old boy and two friends
   growing up in New Hampshire, one-hundred years ago. Written in diary form.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26335#Brite-and-Fair
 gutenberg_issued: '2008-08-17'
 gutenberg_type: Text
 identifiers:
